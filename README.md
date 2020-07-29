@@ -1,0 +1,2 @@
+# VexyCore
+Server core
